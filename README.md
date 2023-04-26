@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Jp 👋 💻
+
+I am a civil engineer passionate about programming. I decided to delve into the tech world because I found it incredibly interesting and aligned with my personal goals. Additionally, I am an enthusiastic learner and enjoy contributing in any work setting I find myself in.
+
+- 🌱 I’m currently learning FrontEnd development and my goal is to be a FullStack Software Engineer
+```js
+const jp = {
+  code: [JavaScript, HTML, CSS],
+  tools: [React, Node, Docker]
+}
+```
 
 <!--
 **Jpc77/Jpc77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +16,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+ ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
