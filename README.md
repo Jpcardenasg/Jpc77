@@ -2,7 +2,7 @@
 
 I am a civil engineer passionate about programming. I decided to delve into the tech world because I found it incredibly interesting and aligned with my personal goals. Additionally, I am an enthusiastic learner and enjoy contributing in any work setting I find myself in.
 
-- 🌱 I’m currently learning FrontEnd development and my goal is to be a FullStack Software Engineer
+- 🌱 I’m currently learning FrontEnd development and my goal is to be a FullStack developer
 ```js
 const jp = {
   code: [JavaScript, HTML, CSS],
